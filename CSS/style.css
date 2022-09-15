@@ -3,6 +3,7 @@
 body{
     min-height: 600px;
     font-family: "Roboto Mono", monospace;
+    background-color: rgb(32, 30, 30);
 
 }
 
@@ -10,4 +11,16 @@ body{
     text-align: center;
     height: 100vh;
     padding: 50px;
+}
+.page-title{
+    color: rgb(243, 242, 242);
+}
+.page-title strong{
+    font-family: 'Righteous', cursive;
+}
+.logo{
+    width: 40px;
+}
+.sub-title{
+    color: rgb(243, 242, 242);
 }
