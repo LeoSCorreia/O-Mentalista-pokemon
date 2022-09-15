@@ -17,10 +17,34 @@ body{
 }
 .page-title strong{
     font-family: 'Righteous', cursive;
+    color: #cca048
 }
 .logo{
     width: 40px;
 }
 .sub-title{
+    color: rgb(243, 242, 242);
+}
+input{
+    width: 210px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 7px;
+    color: rgb(243, 242, 242);
+    background-color: #cca048;
+}
+button img{
+    width: 14px;
+}
+button:hover, img{
+    cursor: pointer;
+    background-color: #C45C4B;
+}
+.resultado{
     color: rgb(243, 242, 242);
 }
