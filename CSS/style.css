@@ -15,7 +15,7 @@ body{
 .page-title{
     color: rgb(243, 242, 242);
 }
-.page-title strong{
+strong{
     font-family: 'Righteous', cursive;
     color: #cca048
 }
@@ -38,10 +38,7 @@ button{
     color: rgb(243, 242, 242);
     background-color: #cca048;
 }
-button img{
-    width: 14px;
-}
-button:hover, img{
+button:hover{
     cursor: pointer;
     background-color: #C45C4B;
 }
